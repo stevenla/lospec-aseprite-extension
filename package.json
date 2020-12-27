@@ -1,0 +1,14 @@
+{
+  "name": "lospec-aseprite-extension",
+  "version": "1.0.0",
+  "description": "Syncing lospec palettes to aseprite",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Steven La <mrstevenla@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
